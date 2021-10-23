@@ -1,0 +1,21 @@
+.navbar {
+    display: flex;
+    padding: 10px;
+    text-align: right;
+    background-color:black;
+    justify-content:space-between;
+}
+
+.menu {
+    li {
+        display:inline-block;
+    }
+    a {
+        color: white;
+    }
+}
+
+.logo {
+    height:68px;
+    width:auto;
+}
